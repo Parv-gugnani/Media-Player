@@ -42,7 +42,13 @@ public class SimpleMediaPlayer extends JFrame {
                 // 
                 // 
                 
-                
+                // 
+                // 
+                // 
+                // 
+                // 
+                // 
+                // 
 
             }
         });
