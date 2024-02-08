@@ -35,6 +35,15 @@ public class SimpleMediaPlayer extends JFrame {
         stopButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 stopMedia();
+                // 
+                // 
+                // 
+                // 
+                // 
+                // 
+                
+                
+
             }
         });
 
